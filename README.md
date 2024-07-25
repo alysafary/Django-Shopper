@@ -1,4 +1,3 @@
-# In name of Allah
 A RESTful django development challenge for shopping in a shop.
 
 ## Introduction
